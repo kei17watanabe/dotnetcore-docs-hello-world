@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'bekeppp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_70B47C55659F45708C8724A173683E50 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E292376737694B0E9458F8FD02E6C6C3 }}
           package: .
